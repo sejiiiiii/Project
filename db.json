@@ -1,0 +1,50 @@
+{
+  "departments": [
+    {
+      "name": "CSE",
+      "points": 60
+    },
+    {
+      "name": "ECE",
+      "points": 45
+    },
+    {
+      "name": "EEE",
+      "points": 65
+    },
+    {
+      "name": "MECH",
+      "points": 70
+    },
+    {
+      "name": "CIVIL",
+      "points": 30
+    }
+  ],
+  "events": [
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Basketball"
+    },
+    {
+      "name": "Volleyball"
+    },
+    {
+      "name": "Chess"
+    },
+    {
+      "name": "Carroms"
+    },
+    {
+      "name": "Coding Contest"
+    },
+    {
+      "name": "Gaming (BGMI)"
+    },
+    {
+      "name": "General Quiz"
+    }
+  ]
+}
